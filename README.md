@@ -1,6 +1,6 @@
 DiscoveryService pour l'application StationVelibService
 
 Projets lié :
-* tpmicroservices
+* tp_springboot_microservices
 * config-service
 * discovery-service
